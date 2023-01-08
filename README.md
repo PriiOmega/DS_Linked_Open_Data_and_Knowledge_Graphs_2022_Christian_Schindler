@@ -15,4 +15,5 @@ This project consists of three parts:
    - The data was cleaned and formatted with OpenRefine
 3. Reconcile and upload
    - The data was reconciled and uploaded with OpenRefine
+   - 69233 Wikidata items of DFG-Projects were successfully created and linked with other data
    - An Example of a Wikidata-Item can be found here: https://www.wikidata.org/wiki/Q116084028
